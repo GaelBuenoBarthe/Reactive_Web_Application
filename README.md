@@ -20,8 +20,8 @@ This project is a reactive web application built using Java, Spring Boot, and Ma
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/reactive-web-application.git
-cd reactive-web-application
+git clone https://github.com/GaelBuenoBarthe/Reactive_Web_Application.git
+cd Reactive_Web_Application
 ```
 ## Build the Project
 
